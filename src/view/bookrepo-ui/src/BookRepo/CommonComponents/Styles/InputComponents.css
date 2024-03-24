@@ -1,0 +1,35 @@
+.inputLabel
+{
+    color: white;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.inputBox
+{
+    color: white;
+    font-family: Arial;
+    font-size: 12px;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background: blue;
+    border: none;
+}
+
+.inputButton
+{
+    border: 1px solid white;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 12px;
+    background: blue;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    margin: 20px;
+    cursor: pointer;
+}

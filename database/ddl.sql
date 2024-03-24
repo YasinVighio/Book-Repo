@@ -32,6 +32,7 @@ create table books
 (
     book_id int primary key AUTO_INCREMENT,
     isbn int(255) not null unique,
+    book_name varchar(255),
     book_author varchar(255),
     is_available tinyint(1) default 0,
     is_ebook_available tinyint(1) default 0

@@ -1,12 +1,10 @@
-import logo from './logo.svg';
 import './App.css';
+import LoginFrom from "./BookRepo/Login/Components/LoginFrom";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        Hello World
-      </header>
+        <LoginFrom/>
     </div>
   );
 }

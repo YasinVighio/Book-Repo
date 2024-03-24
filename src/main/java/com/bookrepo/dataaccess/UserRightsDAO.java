@@ -1,4 +1,4 @@
-package com.bookrepo.persistence;
+package com.bookrepo.dataaccess;
 
 import com.bookrepo.entities.UserRightsEntity;
 import com.bookrepo.repositories.UserRightsRepository;
